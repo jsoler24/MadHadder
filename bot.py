@@ -4,7 +4,7 @@ import time
 from discord.ext.commands import Bot
 
 BOT_PREFIX = ("-","?","!")
-token = '#' #Specify a token 
+token = 'NTU3Mzk0MDgwMzM4ODA0NzU2.D3HrsA.b9330LT-ET1L5fZCc38M4B3-qwg'
 client = Bot(command_prefix=BOT_PREFIX)
 
 @client.command(name = 'change_places',
